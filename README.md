@@ -1,4 +1,4 @@
-<h1>Hi, I'm Steve, an <a href="https://www.linkedin.com/in/steve-griffith-a496b4a9/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Steve, an aspiring <a href="https://www.linkedin.com/in/steve-griffith-a496b4a9/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
